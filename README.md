@@ -10,3 +10,4 @@ Creating Strings
 
 ## Do it Again
 Two Knight: Current Solution too slow
+Digit Query

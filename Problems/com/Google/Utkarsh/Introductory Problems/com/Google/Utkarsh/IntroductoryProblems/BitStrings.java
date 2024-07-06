@@ -1,4 +1,4 @@
-package com.Google.Utkarsh;
+package com.Google.Utkarsh.IntroductoryProblems;
 
 public class BitStrings {
     public static void main(String[] args) {
